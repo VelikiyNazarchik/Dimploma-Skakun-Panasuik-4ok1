@@ -1,0 +1,2 @@
+/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.Default__BP_FirstPersonPlayerController_C
+/Game/FirstPerson/Blueprints/BP_FirstPersonPlayerController.BP_FirstPersonPlayerController_C
