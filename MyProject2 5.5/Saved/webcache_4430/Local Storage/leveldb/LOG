@@ -1,2 +1,3 @@
-2025/05/08-18:06:08.639 a88 Creating DB D:/Github/Firstgame/GameOfTheYear/MyProject2 5.5/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/05/08-18:06:08.786 a88 Reusing MANIFEST D:/Github/Firstgame/GameOfTheYear/MyProject2 5.5/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/05/10-22:22:43.382 6708 Reusing MANIFEST D:/Github/Firstgame/GameOfTheYear/MyProject2 5.5/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/05/10-22:22:43.405 6708 Recovering log #3
+2025/05/10-22:22:43.406 6708 Reusing old log D:/Github/Firstgame/GameOfTheYear/MyProject2 5.5/Saved/webcache_4430\Local Storage\leveldb/000003.log 
