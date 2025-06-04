@@ -11,6 +11,7 @@
     <None Include="..\..\Source\MyProject2Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -49,13 +50,18 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="EnvQueryGenerator_Grid3D.cpp">
-      <Filter>Source\MyProject2</Filter>
-    </ClCompile>
+    <Filter Include="Source\MyProject2\EnvQuery">
+      <UniqueIdentifier>{b845c0cd-be0a-421b-9402-d68c2530afa3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="EnvQueryGenerator_Grid3D.h">
-      <Filter>Source\MyProject2</Filter>
+    <ClInclude Include="EnvQuery_Grid3D.h">
+      <Filter>Source\MyProject2\EnvQuery</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EnvQuery_Grid3D.cpp">
+      <Filter>Source\MyProject2\EnvQuery</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

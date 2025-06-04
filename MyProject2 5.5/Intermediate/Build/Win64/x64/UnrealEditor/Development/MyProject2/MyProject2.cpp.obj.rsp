@@ -1,12 +1,12 @@
-"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Source\MyProject2\MyProject2.cpp"
-/FI"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/FI"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Definitions.MyProject2.h"
-/Yu"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
-/Fp"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
-/Fo"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.obj"
-/experimental:log "C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.sarif"
-/sourceDependencies "C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.dep.json"
-@"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.Shared.rsp"
+"D:\GitHub\GameOfTheYear\MyProject2 5.5\Source\MyProject2\MyProject2.cpp"
+/FI"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/FI"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\Definitions.MyProject2.h"
+/Yu"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h"
+/Fp"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.pch"
+/Fo"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.obj"
+/experimental:log "D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.sarif"
+/sourceDependencies "D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.cpp.dep.json"
+@"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyProject2\MyProject2.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

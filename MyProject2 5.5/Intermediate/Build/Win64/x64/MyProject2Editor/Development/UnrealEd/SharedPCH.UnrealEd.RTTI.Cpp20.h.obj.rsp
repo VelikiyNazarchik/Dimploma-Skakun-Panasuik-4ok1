@@ -1,4 +1,4 @@
-"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.cpp"
+"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.cpp"
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEd\UHT"
 /I "Programs\UnrealLightmass\Public"
@@ -298,10 +298,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 /Yc"SharedPCH.UnrealEd.RTTI.Cpp20.h"
-/Fp"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.h.pch"
-/Fo"C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.h.obj"
-/experimental:log "C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.h.sarif"
-/sourceDependencies "C:\Users\Lenovo\Documents\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.h.dep.json"
+/Fp"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.h.pch"
+/Fo"D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.h.obj"
+/experimental:log "D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.h.sarif"
+/sourceDependencies "D:\GitHub\GameOfTheYear\MyProject2 5.5\Intermediate\Build\Win64\x64\MyProject2Editor\Development\UnrealEd\SharedPCH.UnrealEd.RTTI.Cpp20.h.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

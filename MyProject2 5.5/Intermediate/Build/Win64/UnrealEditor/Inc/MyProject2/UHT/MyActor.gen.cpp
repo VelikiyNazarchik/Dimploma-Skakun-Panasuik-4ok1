@@ -76,14 +76,14 @@ AMyActor::~AMyActor() {}
 // End Class AMyActor
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_Lenovo_Documents_GitHub_GameOfTheYear_MyProject2_5_5_Source_MyProject2_MyActor_h_Statics
+struct Z_CompiledInDeferFile_FID_GitHub_GameOfTheYear_MyProject2_5_5_Source_MyProject2_MyActor_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_AMyActor, AMyActor::StaticClass, TEXT("AMyActor"), &Z_Registration_Info_UClass_AMyActor, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMyActor), 3620847421U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Lenovo_Documents_GitHub_GameOfTheYear_MyProject2_5_5_Source_MyProject2_MyActor_h_3805363956(TEXT("/Script/MyProject2"),
-	Z_CompiledInDeferFile_FID_Users_Lenovo_Documents_GitHub_GameOfTheYear_MyProject2_5_5_Source_MyProject2_MyActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Lenovo_Documents_GitHub_GameOfTheYear_MyProject2_5_5_Source_MyProject2_MyActor_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_GameOfTheYear_MyProject2_5_5_Source_MyProject2_MyActor_h_3805363956(TEXT("/Script/MyProject2"),
+	Z_CompiledInDeferFile_FID_GitHub_GameOfTheYear_MyProject2_5_5_Source_MyProject2_MyActor_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHub_GameOfTheYear_MyProject2_5_5_Source_MyProject2_MyActor_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

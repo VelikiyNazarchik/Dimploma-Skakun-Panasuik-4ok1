@@ -5,24 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/9/R3/MDCSVMNS7QWK3IJ2LZML1P.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/C/3T/Z277QQTIV7W10KHVD221MI.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/2/EG/W7HEQETEVIUUJQP3HH7H5B.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/7/HM/52NGLKRPAE2Z9QO6FQ7JEW.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/3/9A/4N6CL0LL830S7LEQM6RJ6W.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/D/Z6/5QZAPFO0Q3MNWQQKHZ6VLH.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/3/II/DKZW3SVXLFMU8OYUZQ17IO.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/6/N3/17YT1PCT2L6JD7IS22NNLG.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/C/49/W52PXLZFKW8B8ZKZ5SV5WA.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/A/8F/ELS888C2DGYPITTN1QM36D.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/6/2W/8JJ9PY2V7EQ90OTFB7XJXT.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/__ExternalActors__/Sonik/MainMap/A/KU/BYFF291O2AT491UNOZ06M2.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/Sonik/Export_Map_Models/Church/Cube_016.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/Sonik/Export_Map_Models/House1.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/Nazarchik/niagara_system/electro/NS_LightningAttach.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/Nazarchik/enemies/Shardwretch/Behaviour/EQS/Find_IndealRange_Mosquito_EQS.uasset",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/Nazarchik/Level1.umap",
-				"C:/Users/Lenovo/Documents/GitHub/GameOfTheYear/MyProject2 5.5/Content/Nazarchik/enemies/Shardwretch/Behaviour/EQS/EQS_Contex_Attacktarget.uasset"
+				"D:/GitHub/GameOfTheYear/MyProject2 5.5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/GitHub/GameOfTheYear/MyProject2 5.5/Content/Nazarchik/enemies/Shardwretch/Behaviour/EQS/Find_IndealRange_Mosquito_EQS.uasset"
 			]
 		}
 	]
