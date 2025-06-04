@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lenovo\\documents\\github\\gameoftheyear\\myproject2 5.5\\source\\myproject2\\myactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lenovo\\documents\\github\\gameoftheyear\\myproject2 5.5\\intermediate\\build\\win64\\x64\\myproject2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\lenovo\\documents\\github\\gameoftheyear\\myproject2 5.5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myproject2\\definitions.myproject2.h",
+            "c:\\users\\lenovo\\documents\\github\\gameoftheyear\\myproject2 5.5\\source\\myproject2\\myactor.h",
+            "c:\\users\\lenovo\\documents\\github\\gameoftheyear\\myproject2 5.5\\intermediate\\build\\win64\\unrealeditor\\inc\\myproject2\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
